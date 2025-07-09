@@ -1,0 +1,17 @@
+# Market Research Agent Requirements
+# Core dependencies for the market research agent
+
+# LangGraph for stateful workflow management
+langgraph>=0.0.40
+
+# Google Gemini AI for report generation
+google-generativeai
+
+# Additional utilities
+python-dotenv
+typing-extensions
+
+# Optional development dependencies
+pytest
+black
+flake8
